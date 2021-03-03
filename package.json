@@ -1,6 +1,6 @@
 {
-  "name": "js_common_utils",
-  "version": "1.0.0",
+  "name": "@potter.yan/js_common_utils",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -8,6 +8,7 @@
     "build-release": ""
   },
   "author": "Potter <aa4790139@gmail.com>",
+  "repository": "https://github.com/aa4790139/JSCommonUtils.git",
   "license": "ISC",
   "dependencies": {
     "crc32": ">= 0.2.2",
