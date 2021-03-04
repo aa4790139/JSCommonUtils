@@ -16,7 +16,10 @@ npm install js_common_utils
 import {charUtils, byteUtils, gzipUtils} from 'js_common_utils'
 ```
 - Node.js
+
 ```
+
 var {charUtils, byteUtils, gzipUtils} = require('js_common_utils');
+
 ```
 
